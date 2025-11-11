@@ -1,0 +1,15 @@
+[project]
+name = "olist-analise-vendas"
+version = "0.1.0"
+description = "Projeto de análise de dados com Power BI e Python"
+authors = [
+  { name = "Hector Abreu" }
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["utils"]

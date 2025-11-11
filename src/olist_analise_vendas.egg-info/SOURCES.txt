@@ -1,0 +1,6 @@
+LICENSE
+pyproject.toml
+src/olist_analise_vendas.egg-info/PKG-INFO
+src/olist_analise_vendas.egg-info/SOURCES.txt
+src/olist_analise_vendas.egg-info/dependency_links.txt
+src/olist_analise_vendas.egg-info/top_level.txt
