@@ -1,2 +1,4 @@
-# Ignore datasets
 src/database
+src/olist_analise_vendas.egg-info
+
+.vscode
