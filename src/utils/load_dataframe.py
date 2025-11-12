@@ -14,7 +14,7 @@ DATASET = Literal[
 ]
 
 
-def import_dataframe(df: DATASET) -> pd.DataFrame:
+def load_dataframe(df: DATASET) -> pd.DataFrame:
     key = {
         "customer": "../database/olist_customers_dataset.csv",
         "geolocation": "../database/olist_geolocation_dataset.csv",
