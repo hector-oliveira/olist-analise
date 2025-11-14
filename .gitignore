@@ -1,6 +1,7 @@
 # Ignore folders in src
 src/database
 src/olist_analise_vendas.egg-info
+src/database-powerbi
 
 # Ignore word settings
 .vscode
